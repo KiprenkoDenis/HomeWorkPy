@@ -13,6 +13,4 @@ def exponentiation(A, B):
     else:
         return A * exponentiation(A, B - 1)
 
-
-result = exponentiation(a, b)
-print(f"A = {a}; B = {b} -> {result}")
+print(f"A = {a}; B = {b} -> {exponentiation(a, b)}")

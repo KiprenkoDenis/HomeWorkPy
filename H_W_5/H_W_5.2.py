@@ -14,5 +14,4 @@ def sum_pos_int(a, b):
     else:
         return sum_pos_int(a - 1, b + 1)
 
-result = sum_pos_int(a, b)
-print(result)
+print(sum_pos_int(a, b))

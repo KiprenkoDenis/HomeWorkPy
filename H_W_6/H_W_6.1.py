@@ -17,5 +17,4 @@ def arith_prog_array():
         array_prog.append(n)
     return(array_prog)
 
-my_list = arith_prog_array()
-print(my_list)
+print(arith_prog_array())
