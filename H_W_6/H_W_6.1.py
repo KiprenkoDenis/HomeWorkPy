@@ -17,4 +17,8 @@ def arith_prog_array():
         array_prog.append(n)
     return(array_prog)
 
+<<<<<<< HEAD
 print(arith_prog_array())
+=======
+print(arith_prog_array())
+>>>>>>> 76b1cd6f7a4383c2bdb6b4e017ec80f6d4b0af9b
